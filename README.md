@@ -4,6 +4,7 @@
 * Sarvesh
 
 # Link to PPT:
+[PPT](https://docs.google.com/presentation/d/1BMU7EviwuHqcDCnZIZ4YmI8hsJqJNlhSFbIxaF6y_-s/edit?usp=sharing)
 
 # Link to InfoMax repository and code:
 [DIM](https://github.com/rdevon/DIM)
