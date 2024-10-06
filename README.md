@@ -16,3 +16,5 @@
 # Link to Notes Google Doc
 [Notes](https://docs.google.com/document/d/1Hes1WQYqv0VV3jxIjn7NVzRIbx0QFfmmpcu-blNi_DM/edit?usp=sharing)
 
+# Youtube Playlist
+This is a [YT Playlist](https://www.youtube.com/watch?v=wdKYveLIxgU&list=PLdxQ7SoCLQANQ9fQcJ0wnnTzkFsJHlWEj&index=20) that gives information about the basics for understanding DIM. It covers various Autoencoders, GANs and InfoMax in GAN.
