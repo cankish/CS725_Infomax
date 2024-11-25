@@ -4,7 +4,7 @@
 * Sarvesh Shashidhar (24m2152)
 
 # Link to PPT:
-[PPT]([https://docs.google.com/presentation/d/1BMU7EviwuHqcDCnZIZ4YmI8hsJqJNlhSFbIxaF6y_-s/edit?usp=sharing](https://docs.google.com/presentation/d/1i76XOqfET12ESHSeBRUYs8PvtjG_VNKU/edit?usp=sharing&ouid=114934814575753620379&rtpof=true&sd=true))
+[PPT](https://docs.google.com/presentation/d/1i76XOqfET12ESHSeBRUYs8PvtjG_VNKU/edit?usp=sharing&ouid=114934814575753620379&rtpof=true&sd=true)
 
 # Link to InfoMax repository and code:
 [DIM](https://github.com/jenkspt/deepinfomax/tree/master)
