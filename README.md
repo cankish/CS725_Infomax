@@ -1,13 +1,9 @@
 # Team Members:
-<<<<<<< HEAD
+
 * Sarvesh Shashidhar(24M2152)
 * Ritik (24M2155)
 * Ankish Chandresh(24M2163)
-=======
-* Ritik (24M2155)
-* Ankish Chandresh (24M2163)
-* Sarvesh Shashidhar (24M2152)
->>>>>>> 1b20aaebe0d4af35a335d42d040596881b156653
+
 
 # Link to PPT:
 [PPT](https://docs.google.com/presentation/d/1i76XOqfET12ESHSeBRUYs8PvtjG_VNKU/edit?usp=sharing&ouid=114934814575753620379&rtpof=true&sd=true)
