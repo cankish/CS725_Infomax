@@ -28,7 +28,8 @@ python trainVAE.py
 ```
 # Link to our paper:
 [Learning deep representations by mutual information estimation and maximization](https://arxiv.org/pdf/1808.06670)
-
+# Results
+![results](results.png)
 # References
 [Causal models on probability spaces](https://arxiv.org/abs/1907.01672)
 
