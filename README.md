@@ -26,6 +26,11 @@ python trainer.py --alpha=0 --beta=1 --gamma=0 --epochs=50 --batch-size=128
 ```
 python trainVAE.py
 ```
+# For training the classifier:
+Set model flag as 'vae' for using a VAE model as feature vector and set it to 'dim' for using Deep Infomax feature vector for final classification downstream task
+```
+python classifier.py --epochs=200 --lr=0.01 --batch_size=128 --model='vae'
+```
 # Link to our paper:
 [Learning deep representations by mutual information estimation and maximization](https://arxiv.org/pdf/1808.06670)
 # Results
