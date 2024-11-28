@@ -11,7 +11,7 @@
 # Link to Referenced repository and code:
 [jenkspt/deepinfomax](https://github.com/jenkspt/deepinfomax/tree/master)
 
-# Steps for reproducting our results:
+# Steps for reproducing our results:
 1. Train a dim or vae model by running trainer.py script or trainVAE.py script respectively 
 2. Once the model/encoder is trained train a classifier that uses representations from the model trained in step 1 as input
 3. Note the train and validation accuracy
