@@ -11,6 +11,10 @@
 # Link to Referenced repository and code:
 [jenkspt/deepinfomax](https://github.com/jenkspt/deepinfomax/tree/master)
 
+# Steps for reproducting our results:
+1. train a dim or vae model by running trainer script or trainVAE script
+2. Once the model/encoder is trained train a classifier that using representations from the model trained in step 1 as input
+3. Note the train and validation accuracy
 
 # Run The following for DIM-Global:
 DIM-Global refers to the setting where purely Global Mutual Information maximisation is performed
