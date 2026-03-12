@@ -22,7 +22,7 @@ DIM-Global refers to the setting where purely Global Mutual Information maximisa
 python trainer.py --alpha=1 --beta=0 --gamma=0 --epochs=50 --batch-size=128
 ```
 # Run The following for DIM-Local:
-DIM-Global refers to the setting where purely Local Mutual Information maximisation is performed
+DIM-Local refers to the setting where purely Local Mutual Information maximisation is performed
 ```
 python trainer.py --alpha=0 --beta=1 --gamma=0 --epochs=50 --batch-size=128
 ```
@@ -35,9 +35,10 @@ Set model flag as 'vae' for using a VAE model as feature vector and set it to 'd
 ```
 python classifier.py --epochs=200 --lr=0.01 --batch_size=128 --model='vae'
 ```
-# Link to our paper:
+# Link to the paper implemented:
 [Learning deep representations by mutual information estimation and maximization](https://arxiv.org/pdf/1808.06670)
 # Results
+Accuracy results of Unsupervised methods on CIFAR-10
 ![results](results.png)
 # References
 [Causal models on probability spaces](https://arxiv.org/abs/1907.01672)
